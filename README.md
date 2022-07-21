@@ -1,1 +1,0 @@
-# minsungg.github.io
