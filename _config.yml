@@ -2,14 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+title: 유민성 | Data Analyst & AI Portfolio
+first_name: Minsung
+middle_name: # 공란
+last_name: Yu
+contact_note: "dbalstjd30@korea.ac.kr로 연락주시면 가장 빠르게 확인합니다."
+description: 데이터로 문제를 정의하고, Python·SQL을 활용해 인사이트를 도출해내는 데이터 분석가 지원자입니다.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -20,7 +18,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://minsungg.github.io
-baseurl: # 공란으로 바꾸기
+baseurl: "" # 공란으로 바꾸기
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
