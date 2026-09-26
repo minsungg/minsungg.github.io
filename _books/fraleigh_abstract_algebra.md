@@ -3,7 +3,7 @@ layout: book-review
 title: A First Course in Abstract Algebra
 author: John B. Fraleigh
 isbn: 0201763907
-cover: /assets/img/books/fraleigh-abstract-algebra.svg
+cover: books/fraleigh-abstract-algebra.svg
 categories: mathematics algebra
 tags: abstract-algebra algebra groups rings fields
 status: Finished
