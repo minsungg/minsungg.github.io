@@ -3,7 +3,7 @@ layout: book-review
 title: 함수형 파이썬 프로그래밍
 author: Steven F. Lott
 isbn: 9781803232577
-cover: /assets/img/books/functional-python-programming.svg
+cover: books/functional-python-programming.svg
 categories: programming python functional-programming
 tags: python functional-programming generators lazy-evaluation
 status: Finished
