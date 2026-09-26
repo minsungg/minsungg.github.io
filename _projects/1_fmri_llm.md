@@ -210,3 +210,16 @@ HCP 분류에서 학습한 feature가 NSD 캡션 생성에 최적화된 표현�
 ## \[Sample 9\]<br>• Image/fMRI ID : Batch 0, Item 8<br>• Reference: Two women sit on a sidewalk near a street with a train passing by.<br>• Decoded Pred: A man standing on a tree in the middle of the forest.<br>• Metrics : BLEU-4: 0.0223 \| METEOR: 0.2273 \| ROUGE-L: 0.1538
 ## \[Sample 10\]<br>• Image/fMRI ID : Batch 0, Item 9<br>• Reference: A large vanity mirror mounted above a sink in a bathroom.<br>• Decoded Pred: A large kitchen with a large kitchen sink.<br>• Metrics : BLEU-4: 0.0306 \| METEOR: 0.2778 \| ROUGE-L: 0.2222
 BLEU-1: 0.1622<br>BLEU-2: 0.0623<br>BLEU-3: 0.0389<br>BLEU-4: 0.0255<br>METEOR: 0.2511<br>ROUGE-L: 0.1886
+
+## 10.1 최종 생성 평가
+최종 평가에서는 다음 지표를 사용했습니다.
+- BLEU-1: 0.1622
+- BLEU-2: 0.0623
+- BLEU-3: 0.0389
+- BLEU-4: 0.0255
+- METEOR: 0.2511
+- ROUGE-L: 0.1886
+
+개별 생성 예시에서는 reference caption과 생성 caption 사이의 의미적 차이가 크게 나타나는 경우도 확인했습니다. 따라서 정량 지표와 생성 결과를 함께 확인하여 모델의 한계를 분석했습니다.
+
+
