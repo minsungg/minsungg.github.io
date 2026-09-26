@@ -12,6 +12,8 @@ category: Research
 fMRI beta map을 활용하여 뇌 활동 데이터를 표현하는 딥러닝 encoder를 설계하고, 학습된 표현을 서로 다른 두 가지 과제에 적용한 프로젝트입니다.
 - **HCP 데이터셋:** fMRI beta map을 활용한 19개 인지 조건 분류
 - **NSD 데이터셋:** fMRI beta map과 사전 학습된 언어 모델을 연결한 이미지 캡션 생성
+
+![NSD와 fMRI 데이터 예시](/assets/img/fmri.jpg)
 먼저 HCP 데이터셋을 사용하여 인지 조건 분류 모델을 학습했습니다. 이후 classification head를 제거하고, encoder가 추출한 feature를 bridge network를 통해 GPT-2의 입력 임베딩 공간으로 변환했습니다.
 이를 바탕으로 fMRI beta map에서 이미지 캡션을 생성하는 모델을 구성하고, encoder 구조와 feature 차원에 따른 학습 및 생성 결과의 변화를 실험했습니다.
 ---
