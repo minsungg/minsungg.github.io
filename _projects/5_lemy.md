@@ -4,7 +4,7 @@ title: Lemy - 게임 개발
 description: 레거시 코드 개선, 기능 구현 및 성능 최적화
 img:
 importance: 5
-category: Project
+category: Sub
 ---
 
 ## Lemy
