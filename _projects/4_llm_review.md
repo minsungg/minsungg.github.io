@@ -4,7 +4,7 @@ title: 알라딘 사용자 리뷰 기반 UI/UX 문제 분석
 description: LLM을 활용한 기업 서비스 리뷰 분석
 img:
 importance: 4
-category: Project
+category: Sub
 ---
 
 # 알라딘 사용자 리뷰 기반 UI/UX 문제 분석
