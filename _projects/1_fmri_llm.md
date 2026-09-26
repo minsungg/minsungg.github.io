@@ -4,7 +4,7 @@ title: fMRI 기반 인지 조건 분류 및 이미지 캡션 생성
 description: fMRI beta map을 활용한 CNN 기반 encoder 설계 및 실험
 img:
 importance: 1
-category: Research
+category: Main
 ---
 
 # fMRI 기반 인지 조건 분류 및 이미지 캡션 생성
