@@ -4,7 +4,7 @@ title: 부동소수점 신경망의 표현력 및 최소 구조 분석
 description: Step activation function을 사용하는 MLP의 최소 깊이와 너비 분석
 img:
 importance: 3
-category: Research
+category: Main
 ---
 
 # 학부연구생(부동소수점 신경망의 표현력 및 최소 구조 분석)
