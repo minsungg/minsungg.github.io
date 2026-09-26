@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="900" viewBox="0 0 600 900">
-  <image href="https://dynamic.indigoimages.ca/v1/books/books/1803232579/1.jpg" x="0" y="0" width="600" height="900" preserveAspectRatio="xMidYMid meet"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+<rect width="600" height="900" fill="#f4f1ea"/>
+<rect x="36" y="36" width="528" height="828" fill="none" stroke="#222" stroke-width="3"/>
+<circle cx="470" cy="150" r="82" fill="none" stroke="#222" stroke-width="3"/>
+<path d="M388 150h164M470 68v164" stroke="#222" stroke-width="2"/>
+<text x="60" y="120" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#555">FUNCTIONAL PYTHON</text>
+<text x="60" y="300" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#111">함수형 파이썬</text><text x="60" y="358" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#111">프로그래밍</text>
+<text x="60" y="470" font-family="Arial, sans-serif" font-size="22" fill="#444">Steven F. Lott</text>
+<line x1="60" y1="535" x2="540" y2="535" stroke="#222" stroke-width="2"/>
+<text x="60" y="590" font-family="Arial, sans-serif" font-size="16" letter-spacing="2" fill="#555">READING NOTES</text>
+<text x="60" y="650" font-family="Arial, sans-serif" font-size="15" fill="#555">Mathematics · Computer Science · AI</text>
+<text x="60" y="815" font-family="Arial, sans-serif" font-size="14" fill="#777">PERSONAL BOOKSHELF</text>
 </svg>
