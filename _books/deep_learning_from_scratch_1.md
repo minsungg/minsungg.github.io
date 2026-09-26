@@ -3,7 +3,7 @@ layout: book-review
 title: 밑바닥부터 시작하는 딥러닝 1
 author: 사이토 고키
 isbn: 9791169213387
-cover: /assets/img/books/deep-learning-1.svg
+cover: books/deep-learning-1.svg
 categories: machine-learning deep-learning python
 tags: deep-learning neural-network python
 status: Finished
