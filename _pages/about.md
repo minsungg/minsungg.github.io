@@ -15,7 +15,7 @@ latest_posts:
   enabled: false
 ---
 
-# Mathematics × Machine Learning
+### Mathematics × Machine Learning
 
 머신러닝의 수학적 이론에 관심이 있으며, 이를 바탕으로 현실의 문제를 신뢰성 있게 해결하고자 합니다.  
 문제를 새롭게 발굴하고 수학적 기법을 활용해 창의적인 해법을 제시하는 것을 목표로 합니다.
