@@ -7,7 +7,7 @@ importance: 1
 category: Main
 ---
 
-# fMRI 기반 인지 조건 분류 및 이미지 캡션 생성
+![NSD와 fMRI 데이터 예시](/assets/img/fmri.jpg)
 
 ## 프로젝트 개요
 
@@ -17,8 +17,6 @@ category: Main
 - **NSD:** fMRI feature와 사전 학습 언어 모델을 연결한 이미지 캡션 생성
 
 제가 주로 수행한 작업은 **fMRI 입력 전처리, 1D CNN encoder 설계 및 구조 변경, GPT-2와의 연결, 실험 결과 분석**입니다.
-
-![NSD와 fMRI 데이터 예시](/assets/img/fmri.jpg)
 
 ---
 
