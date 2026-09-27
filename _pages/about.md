@@ -17,8 +17,8 @@ latest_posts:
 
 # Mathematics × Machine Learning
 
-수학적 기반에서 머신러닝의 **표현력과 학습 구조**를 탐구하고,  
-fMRI·강화학습·LLM 등의 실제 문제에 적용하는 데 관심이 있습니다.
+머신러닝의 수학적 이론에 관심이 있으며, 이를 바탕으로 현실의 문제를 신뢰성 있게 해결하고자 합니다.  
+문제를 새롭게 발굴하고 수학적 기법을 활용해 창의적인 해법을 제시하는 것을 목표로 합니다.
 
 [Projects →]({{ '/projects/' | relative_url }}) · [CV →]({{ '/cv/' | relative_url }}) · [Bookshelf →]({{ '/books/' | relative_url }})
 
