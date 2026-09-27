@@ -34,7 +34,7 @@ latest_posts:
         <p class="card-text">
           fMRI beta map을 활용한 CNN 기반 encoder 설계 및 실험.
         </p>
-        <a href="{{ '/projects/1-fmri-llm/' | relative_url }}">View project →</a>
+        <a href="{{ '/projects/1_fmri_llm/' | relative_url }}">View project →</a>
       </div>
     </div>
   </div>
@@ -46,7 +46,7 @@ latest_posts:
         <p class="card-text">
           손 동작 모방을 위한 강화학습 환경의 관측·보상 설계 및 실험.
         </p>
-        <a href="{{ '/projects/2-ppo-hand-object/' | relative_url }}">View project →</a>
+        <a href="{{ '/projects/2_ppo_hand_object/' | relative_url }}">View project →</a>
       </div>
     </div>
   </div>
@@ -58,7 +58,7 @@ latest_posts:
         <p class="card-text">
           부동소수점 수를 정의역·치역으로 하는 신경망의 표현력과 최소 구조 분석.
         </p>
-        <a href="{{ '/projects/3-floating-point-nn/' | relative_url }}">View project →</a>
+        <a href="{{ '/projects/3_floating_point_nn/' | relative_url }}">View project →</a>
       </div>
     </div>
   </div>
