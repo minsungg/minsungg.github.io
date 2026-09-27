@@ -5,9 +5,7 @@ description: Reward Function 설계 및 학습 로그 분석을 통한 손-물�
 img:
 importance: 2
 category: Main
----
-
-## PPO 기반 손-물체 상호작용 모방 강화학습
+--
 
 **사용 기술:** Python, PyTorch, Isaac Lab
 
