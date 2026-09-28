@@ -5,7 +5,7 @@ permalink: /
 subtitle: Korea University · Data Science
 profile:
   align: right
-  image: prof_pic.jpg
+  image: My_Face.jpg
   image_circular: false
 selected_papers: false
 social: true
