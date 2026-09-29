@@ -2,6 +2,6 @@
 layout: page
 permalink: /repositories/
 title: repositories
-nav: true
+nav: false
 nav_order: 4
 ---
