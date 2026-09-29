@@ -13,7 +13,7 @@ announcements:
   enabled: false
 latest_posts:
   enabled: false
-nav: true
+nav: false
 nav_order: 1
 ---
 
