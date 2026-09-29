@@ -31,6 +31,12 @@ description: Education, skills, activities, awards, and books
 
 ---
 
+## Research Experience
+
+**학부연구생** · 2025.09 – 현재진행중
+
+---
+
 ## Awards & Certifications
 
 <div class="row">
