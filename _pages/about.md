@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Minsung Ryu
 permalink: /
 subtitle: Korea University · Data Science
 profile:
@@ -13,6 +13,8 @@ announcements:
   enabled: false
 latest_posts:
   enabled: false
+nav: true
+nav_order: 1
 ---
 
 ### Mathematics × Machine Learning
