@@ -46,7 +46,6 @@ description: Education, skills, activities, awards, and books
       <li>2023 데이터톤 2등상</li>
       <li>2025 창업경진대회 2등상</li>
       <li>2026 NDM 대상</li>
-      <li>2026 유니콘 장려상</li>
     </ul>
   </div>
 
