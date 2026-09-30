@@ -66,9 +66,6 @@ nav_order: 1
     <div class="card h-100">
       <div class="card-body">
         <h5 class="card-title">부동소수점 신경망의 표현력</h5>
-        <p class="card-text">
-          부동소수점 수를 정의역·치역으로 하는 신경망의 표현력과 최소 구조 분석.
-        </p>
         <a href="{{ '/projects/3_floating_point_nn/' | relative_url }}">View project →</a>
       </div>
     </div>
