@@ -40,7 +40,7 @@ Mathematical study of neural networks whose domain and codomain are floating-poi
 ## Activities
 
 - CAT&DOG Algorithm Study — Organizer, 2023
-- ALPS Intermediate Algorithm Study, 2023
+- ALPS Intermediate Algorithm Study — Completed, 2023
 - LLM Special Lecture — LangChain and RAG, 2025
 
 ## Skills
