@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: 위상수학
-cover: books/topology.svg
+cover: topology.svg
 categories: mathematics topology
 tags: topology mathematics
 status: Finished
