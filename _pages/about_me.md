@@ -69,6 +69,20 @@ description: Education, skills, activities, awards, and books
 
 ---
 
+## solved.ac
+
+<div class="text-center">
+  <a href="https://solved.ac/profile/yunmas127" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://solvedac-readme-stats.vercel.app/api?handle=yunmas127&v=2&streak=false"
+      alt="yunmas127 solved.ac profile"
+      style="max-width: 100%; width: 480px; height: auto;"
+    />
+  </a>
+</div>
+
+---
+
 ## Bookshelf
 
 수학, 컴퓨터과학, 딥러닝 및 프로그래밍 분야에서 공부하며 읽은 책을 정리하고 있습니다.
