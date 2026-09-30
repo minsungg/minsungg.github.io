@@ -29,7 +29,6 @@ Research interests include the mathematical foundations of machine learning, rep
 CNN-based encoder design and experiments using fMRI beta maps.
 
 ### Floating-Point Neural Networks
-Mathematical study of neural networks whose domain and codomain are floating-point numbers, with a focus on representation and minimal network structures.
 
 ## Awards
 
