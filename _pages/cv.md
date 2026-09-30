@@ -36,7 +36,6 @@ Mathematical study of neural networks whose domain and codomain are floating-poi
 - 2026 NDM — Grand Prize
 - 2025 Startup Competition — 2nd Prize
 - 2023 Datathon — 2nd Prize
-- 2026 Unicorn — Encouragement Prize
 
 ## Activities
 
