@@ -3,7 +3,7 @@ layout: book-review
 title: Understanding Analysis 해석학 첫걸음
 author: Stephen Abbott
 isbn: 9791156645542
-cover: understanding-analysis.svg
+cover: "https://cdn-prod.hanbit.co.kr/books/B4712980610_l.jpg"
 categories: mathematics analysis
 tags: analysis real-analysis mathematics
 status: Finished

@@ -1,7 +1,8 @@
 ---
 layout: book-review
 title: 위상수학
-cover: topology.svg
+isbn: 9791160736588
+cover: "https://www.kyungmoon.com/data/item/1702621789/thumb-7JyE7IOB7IiY7ZWZ7KCc37YyQ7JWe7ZGc7KeA_600x600.jpg"
 categories: mathematics topology
 tags: topology mathematics
 status: Finished
