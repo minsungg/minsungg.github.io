@@ -7,6 +7,16 @@ nav_order: 2
 description: Education, skills, activities, awards, and books
 ---
 
+<div class="text-center mb-4">
+  <a href="https://solved.ac/profile/yunmas127" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://solvedac-readme-stats.vercel.app/api?handle=yunmas127&v=2&streak=false"
+      alt="yunmas127 solved.ac profile"
+      style="max-width: 100%; width: 480px; height: auto;"
+    />
+  </a>
+</div>
+
 ## Background
 
 <div class="row">
@@ -66,20 +76,6 @@ description: Education, skills, activities, awards, and books
 - 2023 CAT&DOG 알고리즘 기초 스터디장
 - 2023 ALPS 중급 알고리즘 스터디 — 이수
 - 2025 여름방학 LLM 특강 — LangChain 및 RAG 실습
-
----
-
-## solved.ac
-
-<div class="text-center">
-  <a href="https://solved.ac/profile/yunmas127" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://solvedac-readme-stats.vercel.app/api?handle=yunmas127&v=2&streak=false"
-      alt="yunmas127 solved.ac profile"
-      style="max-width: 100%; width: 480px; height: auto;"
-    />
-  </a>
-</div>
 
 ---
 
