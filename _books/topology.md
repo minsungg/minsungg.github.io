@@ -2,7 +2,7 @@
 layout: book-review
 title: 위상수학
 isbn: 9791160736588
-cover: img/topology.jpg
+cover: assets/img/topology.jpg
 categories: mathematics topology
 tags: topology mathematics
 status: Finished

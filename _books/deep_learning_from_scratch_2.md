@@ -3,7 +3,7 @@ layout: book-review
 title: 밑바닥부터 시작하는 딥러닝 2
 author: 사이토 고키
 isbn: 9791162241745
-cover: img/deep-learning-2.png
+cover: assets/img/deep-learning-2.png
 categories: machine-learning deep-learning nlp
 tags: deep-learning rnn nlp word2vec attention
 status: Finished
