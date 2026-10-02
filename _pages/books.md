@@ -5,7 +5,7 @@ permalink: /books/
 nav: true
 nav_order: 6
 collection: books
-covers: ""
+covers: /assets/
 ---
 
 ## 읽은 책
