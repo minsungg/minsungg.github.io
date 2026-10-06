@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 알라딘 사용자 리뷰 기반 UI/UX 문제 분석
+title: 기업 서비스 사용자 리뷰 기반 문제 분석
 description: 4비트 양자화 LLM과 few-shot 프롬프트로 사용자 리뷰를 구조화한 탐색적 분석
 img:
 importance: 4
