@@ -9,4 +9,4 @@ tags: deep-learning rnn nlp word2vec attention
 status: Finished
 ---
 
-자연어 처리와 순환 신경망을 중심으로 공부한 책입니다. 분산 표현과 word2vec, RNN, LSTM, seq2seq, 어텐션 등을 Python으로 직접 구현하는 과정을 다룹니다.
+자연어 처리와 순환 신경망을 중심으로 공부한 책입니다. word2vec, RNN 계열의 여러 바리에이션, seq2seq, 어텐션(not self-attention) 등을 Python으로 직접 구현하는 과정을 다룹니다.
