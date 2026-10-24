@@ -21,30 +21,30 @@ nav_order: 1
 
 머신러닝의 수학적 이론과 데이터 기반 문제 해결에 관심이 있는 데이터사이언스 전공 학생입니다.
 
-모델을 단순히 사용하는 데 그치지 않고, **어떤 원리와 조건에서 모델이 작동하는지** 수학적으로 이해하고자 합니다.
+모델을 단순히 사용하는 데 그치기보다, **왜 특정한 구조가 작동하는지, 어떤 조건에서 더 나은 표현과 학습이 가능한지**를 수학적으로 이해하는 데 관심이 있습니다.
 
 ---
 
 ## Research Interests
 
 <div class="mb-4">
-  <h4>ML on Discrete Structures</h4>
+  <h4>ML on discrete structures</h4>
   <p>
     머신러닝의 표현력(expressivity)과 일반화 경계(generalization bound)는 주로 실수 연산을 가정해 분석됩니다.
-    하지만 실제 컴퓨터는 고정소수점(fixed-point)이나 부동소수점(floating-point)처럼 유한 정밀도의 수 체계에서 연산합니다.
+    반면 실제 컴퓨터는 고정소수점(fixed-point) 및 부동소수점(floating-point)과 같이 유한한 정밀도를 가진 이산 구조에서 연산합니다.
   </p>
   <p>
-    이러한 이산적 연산 환경에서 머신러닝 모델이 어떻게 작동하는지, 표현력과 계산 효율성에 어떤 차이가 나타나는지 연구하고 있습니다.
+    이러한 구조에서도 머신러닝 모델이 어떻게 작동하는지, 표현력과 계산 효율성에 어떤 차이가 나타나는지 연구하고 있습니다.
   </p>
 </div>
 
 <div class="mb-4">
   <h4>Theoretical Foundations of Machine Learning</h4>
   <p>
-    머신러닝의 표현력, 최적화, 일반화에 대한 이론적 근거를 이해하기 위해 수학 공부와 이론 연구를 병행하고 있습니다.
+    머신러닝의 표현력(expressivity), 최적화(optimization), 일반화(generalization)를 이해하기 위해 수학 공부와 이론 연구를 병행하고 있습니다.
   </p>
   <p>
-    특히 보편 근사 정리(Universal Approximation Theorem, UAT)와 더블 디센트(double descent) 현상을 수학적으로 이해하는 것을 목표로 합니다.
+    특히 Universal Approximation Theorem과 double descent phenomenom 등을 수학적으로 이해하는 것을 목표로 합니다.
   </p>
 </div>
 
