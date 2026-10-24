@@ -9,4 +9,4 @@ tags: deep-learning neural-network python
 status: Finished
 ---
 
-퍼셉트론과 신경망의 기본 원리부터 오차역전파, 합성곱 신경망까지 딥러닝의 기초를 Python으로 직접 구현하며 공부한 책입니다.
+MLP와 역전파를 기반으로 간단한 딥러닝 회귀분석을 연습하고, CNN과 dropout, batch normalization 등을 numpy와 주어진 메서드(kernel 곱과 행렬 곱을 변환하는 함수)만을 활용해 직접 구현하며 공부한 책입니다.
