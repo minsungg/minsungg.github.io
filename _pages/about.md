@@ -29,11 +29,11 @@ nav_order: 1
 
 <div class="row">
   <div class="col-md-6">
-    <h4>Learning with Finite-Precision Numbers</h4>
+    <h4>ML on finite structures</h4>
     <p>
       머신러닝의 표현력(expressivity)과 일반화 경계(generalization bound)는 주로 실수 연산을 가정해 분석됩니다.
-      반면 실제 컴퓨터는 고정소수점(fixed-point) 및 부동소수점(floating-point)과 같이 유한한 정밀도를 가진 수 체계에서 연산합니다.
-      이러한 수 체계에서도 머신러닝 모델이 어떻게 작동하는지, 표현력과 계산 효율성에 어떤 차이가 나타나는지 연구하고 있습니다.
+      반면 실제 컴퓨터는 고정소수점(fixed-point) 및 부동소수점(floating-point)과 같이 유한한 정밀도를 가진 이산 구조에서 연산합니다.
+      이러한 구조에서도 머신러닝 모델이 어떻게 작동하는지, 표현력과 계산 효율성에 어떤 차이가 나타나는지 연구하고 있습니다.
     </p>
   </div>
 
@@ -41,7 +41,7 @@ nav_order: 1
     <h4>Theoretical Foundations of Machine Learning</h4>
     <p>
       머신러닝의 표현력(expressivity), 최적화(optimization), 일반화(generalization)를 이해하기 위해 수학 공부와 이론 연구를 병행하고 있습니다.
-      특히 보편 근사 정리(Universal Approximation Theorem, UAT)와 더블 디센트(double descent) 현상을 수학적으로 이해하는 것을 목표로 합니다.
+      특히 Universal Approximation Theorem과 double descent phenomenom 등을 수학적으로 이해하는 것을 목표로 합니다.
     </p>
   </div>
 </div>
