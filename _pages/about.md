@@ -29,7 +29,7 @@ nav_order: 1
 
 <div class="row">
   <div class="col-md-6">
-    <h4>ML on finite structures</h4>
+    <h4>ML on discrete structures</h4>
     <p>
       머신러닝의 표현력(expressivity)과 일반화 경계(generalization bound)는 주로 실수 연산을 가정해 분석됩니다.
       반면 실제 컴퓨터는 고정소수점(fixed-point) 및 부동소수점(floating-point)과 같이 유한한 정밀도를 가진 이산 구조에서 연산합니다.
