@@ -45,7 +45,7 @@ Designed and evaluated a 1D CNN encoder using fMRI beta maps; connected learned 
 ## Skills
 
 **Programming:** Python, C, C#  
-**Machine Learning:** PyTorch
+**Machine Learning:** PyTorch  
 **Data Analysis:** Pandas, Matplotlib, SQL  
 **Development:** Unity
 
