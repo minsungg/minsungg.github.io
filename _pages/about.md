@@ -36,14 +36,6 @@ nav_order: 1
   </p>
 </div>
 
-<div class="mb-4">
-  <h4>Theoretical Foundations of Machine Learning</h4>
-  <p>
-    머신러닝의 표현력(expressivity), 최적화(optimization), 일반화(generalization)를 이해하기 위해 수학 공부와 이론 연구를 병행하고 있습니다.
-    특히 Universal Approximation Theorem과 double descent phenomenom 등을 수학적으로 이해하는 것을 목표로 합니다.
-  </p>
-</div>
-
 ---
 
 ## Selected Projects
