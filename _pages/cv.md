@@ -31,12 +31,6 @@ Theoretical analysis of function representation in Step Neural Networks under fl
 ### fMRI-based Cognitive Condition Classification and Image Captioning
 Designed and evaluated a 1D CNN encoder using fMRI beta maps; connected learned representations to GPT-2 for image caption generation.
 
-### User Review Analysis for a Commercial App
-Structured 350 low-rating app reviews with a quantized LLM and few-shot prompting, then analyzed recurring UI/UX issues.
-
-### Lemy — Unity 2D Game
-Refactored high-volume area-effect processing in a 10-person team project. Reduced average Physics2D processing time by approximately 60.2% in profiling measurements.
-
 ## Awards
 
 - 2026 NDM — Grand Prize
@@ -47,12 +41,11 @@ Refactored high-volume area-effect processing in a 10-person team project. Reduc
 
 - CAT&DOG Algorithm Study — Organizer, 2023
 - ALPS Intermediate Algorithm Study — Completed, 2023
-- LLM Special Lecture — LangChain and RAG, 2025
 
 ## Skills
 
 **Programming:** Python, C, C#  
-**Machine Learning:** PyTorch, Transformers  
+**Machine Learning:** PyTorch
 **Data Analysis:** Pandas, Matplotlib, SQL  
 **Development:** Unity
 
