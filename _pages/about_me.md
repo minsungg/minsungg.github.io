@@ -4,46 +4,45 @@ title: About
 permalink: /about/
 nav: true
 nav_order: 2
-description: Education, skills, activities, awards, and books
+description: Education, research experience, technical skills, and activities
 ---
 
-<div class="text-center mb-4">
-  <a href="https://solved.ac/profile/yunmas127" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://solvedac-readme-stats.vercel.app/api?handle=yunmas127&v=2&streak=false"
-      alt="yunmas127 solved.ac profile"
-      style="max-width: 100%; width: 480px; height: auto;"
-    />
-  </a>
-</div>
+## Education
 
-## Background
-
-<div class="row">
-  <div class="col-md-6">
-    <h4>Education</h4>
-    <p>
-      <strong>Korea University</strong><br>
-      Data Science · 4학년 1학기<br>
-      GPA <strong>3.99 / 4.5</strong>
-    </p>
-  </div>
-
-  <div class="col-md-6">
-    <h4>Programming</h4>
-    <p>
-      <strong>Python</strong> · Pandas · Matplotlib · PyTorch<br>
-      <strong>C</strong> · 자료구조 및 알고리즘<br>
-      <strong>C#</strong> · 게임 개발
-    </p>
-  </div>
-</div>
+**Korea University**  
+Data Science · 4학년 1학기  
+GPA **3.99 / 4.5**
 
 ---
 
 ## Research Experience
 
-**학부연구생** · 2025.09 – 현재진행중
+**학부연구생** · 2025.09 – 현재
+
+머신러닝 모델의 수학적 구조와 유한 정밀도 연산 환경에서의 표현력에 관심을 두고 연구하고 있습니다.
+
+---
+
+## Technical Skills
+
+<div class="row">
+  <div class="col-md-6">
+    <h4>Programming</h4>
+    <p>
+      <strong>Python</strong> · Pandas · Matplotlib<br>
+      <strong>C</strong> · 자료구조 및 알고리즘<br>
+      <strong>C#</strong> · Unity
+    </p>
+  </div>
+  <div class="col-md-6">
+    <h4>Machine Learning & Data</h4>
+    <p>
+      <strong>PyTorch</strong><br>
+      Data analysis · Visualization<br>
+      SQL
+    </p>
+  </div>
+</div>
 
 ---
 
@@ -58,12 +57,11 @@ description: Education, skills, activities, awards, and books
       <li>2026 NDM 대상</li>
     </ul>
   </div>
-
   <div class="col-md-6">
     <h4>Certifications</h4>
     <ul>
       <li>TOPCIT 775</li>
-      <li>ADSP</li>
+      <li>ADsP</li>
       <li>SQLD</li>
     </ul>
   </div>
@@ -79,14 +77,14 @@ description: Education, skills, activities, awards, and books
 
 ---
 
-## Bookshelf
+## Algorithmic Problem Solving
 
-수학, 컴퓨터과학, 딥러닝 및 프로그래밍 분야에서 공부하며 읽은 책을 정리하고 있습니다.
-
-[Explore bookshelf →]({{ '/books/' | relative_url }})
-
----
-
-## CV
-
-[View CV →]({{ '/cv/' | relative_url }})
+<div class="text-center">
+  <a href="https://solved.ac/profile/yunmas127" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://solvedac-readme-stats.vercel.app/api?handle=yunmas127&v=2&streak=false"
+      alt="yunmas127 solved.ac profile"
+      style="max-width: 100%; width: 480px; height: auto;"
+    />
+  </a>
+</div>
