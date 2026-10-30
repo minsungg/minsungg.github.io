@@ -29,17 +29,9 @@ GPA **3.99 / 4.5**
   <div class="col-md-6">
     <h4>Programming</h4>
     <p>
-      <strong>Python</strong> · Pandas · Matplotlib<br>
+      <strong>Python</strong> · Pytorch · Pandas · Matplotlib<br>
       <strong>C</strong> · 자료구조 및 알고리즘<br>
       <strong>C#</strong> · Unity
-    </p>
-  </div>
-  <div class="col-md-6">
-    <h4>Machine Learning & Data</h4>
-    <p>
-      <strong>PyTorch</strong><br>
-      Data analysis · Visualization<br>
-      SQL
     </p>
   </div>
 </div>
