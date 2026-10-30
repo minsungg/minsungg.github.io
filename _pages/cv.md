@@ -8,7 +8,7 @@ nav_order: 5
 
 # Minsung Ryu
 
-**Data Science · Machine Learning**
+**Machine Learning · AI Systems**
 
 dbalstjd30@korea.ac.kr · [GitHub](https://github.com/minsungg) · [Portfolio]({{ '/' | relative_url }})
 
@@ -26,9 +26,11 @@ Research on the expressive capabilities of Step Neural Networks under finite-pre
 ## Selected Projects
 
 ### Floating-Point Neural Networks
+
 Theoretical analysis of function representation in Step Neural Networks under floating-point computation.
 
 ### fMRI-based Cognitive Condition Classification and Image Captioning
+
 Designed and evaluated a 1D CNN encoder using fMRI beta maps; connected learned representations to GPT-2 for image caption generation.
 
 ## Awards
