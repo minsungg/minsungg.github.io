@@ -1,7 +1,7 @@
 ---
 layout: page
 title: fMRI Representation Learning & Brain-to-Text Decoding
-description: HCP 과제 분류로 학습한 1D CNN encoder를 GPT-2에 연결해 NSD 이미지 캡션 생성으로 확장한 프로젝트
+description: HCP task classification으로 학습한 1D CNN encoder를 GPT-2에 연결해 NSD 이미지 캡션 생성으로 확장한 프로젝트
 img: https://raw.githubusercontent.com/minsungg/fMRI-Representation-Learning-and-Brain-to-Text-Decoding/main/Docs/Images/t1image0.png
 importance: 1
 category: Main
