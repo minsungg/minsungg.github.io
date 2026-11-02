@@ -44,9 +44,9 @@ nav_order: 1
   <div class="col mb-4">
     <div class="card h-100">
       <div class="card-body">
-        <h5 class="card-title">fMRI 기반 인지 조건 분류</h5>
+        <h5 class="card-title">fMRI Representation Learning &amp; Brain-to-Text Decoding</h5>
         <p class="card-text">
-          fMRI beta map을 활용한 CNN 기반 encoder 설계 및 실험.
+          HCP task classification으로 학습한 1D CNN encoder를 GPT-2에 연결해 NSD 이미지 캡션 생성으로 확장한 프로젝트
         </p>
         <a href="{{ '/projects/1_fmri_llm/' | relative_url }}">View project →</a>
       </div>

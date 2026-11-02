@@ -29,9 +29,9 @@ Research on the expressive capabilities of Step Neural Networks under finite-pre
 
 Theoretical analysis of function representation in Step Neural Networks under floating-point computation.
 
-### fMRI-based Cognitive Condition Classification and Image Captioning
+### fMRI Representation Learning & Brain-to-Text Decoding
 
-Designed and evaluated a 1D CNN encoder using fMRI beta maps; connected learned representations to GPT-2 for image caption generation.
+Extended a 1D CNN encoder trained on HCP task classification to NSD image caption generation by connecting it to GPT-2.
 
 ## Awards
 
