@@ -1,13 +1,13 @@
 ---
 layout: page
-title: fMRI 기반 인지 조건 분류 및 이미지 캡션 생성
-description: HCP 과제 분류 encoder를 GPT-2에 연결한 NSD 캡션 생성 실험
-img: /assets/img/fmri.jpg
+title: fMRI Representation Learning & Brain-to-Text Decoding
+description: HCP 과제 분류로 학습한 1D CNN encoder를 GPT-2에 연결해 NSD 이미지 캡션 생성으로 확장한 프로젝트
+img: https://raw.githubusercontent.com/minsungg/fMRI-Representation-Learning-and-Brain-to-Text-Decoding/main/Docs/Images/t1image0.png
 importance: 1
 category: Main
 ---
 
-![NSD와 fMRI 데이터 예시](/assets/img/fmri.jpg)
+![fMRI 평균 BOLD 영상](https://raw.githubusercontent.com/minsungg/fMRI-Representation-Learning-and-Brain-to-Text-Decoding/main/Docs/Images/t1image0.png)
 
 ## 프로젝트 개요
 
@@ -33,7 +33,11 @@ PCA도 고려했지만, 입력 차원에 비해 sample이 적어 제한된 data�
 
 최종 encoder는 convolution block 4개와 FC layer 2개로 구성했습니다. GELU, dropout, weight decay를 적용하고, 768차원 feature vector를 출력하도록 설계했습니다. Classification head는 분리해 HCP 학습 이후 제거할 수 있도록 했습니다.
 
+![HCP classification loss curve](https://raw.githubusercontent.com/minsungg/fMRI-Representation-Learning-and-Brain-to-Text-Decoding/main/Docs/Images/encoder-loss.png)
+
 **1,520개 sample을 8:1:1로 분할한 결과, test Macro-F1 0.8667을 기록했습니다.** Sample 단위 무작위 분할 기준이며, 피험자별로 분리한 평가는 아닙니다.
+
+![HCP 19개 task condition confusion matrix](https://raw.githubusercontent.com/minsungg/fMRI-Representation-Learning-and-Brain-to-Text-Decoding/main/Docs/Images/encoder-cm.png)
 
 [Confusion matrix와 분류 결과](https://github.com/minsungg/fMRI-Representation-Learning-and-Brain-to-Text-Decoding/blob/main/Results/Classification/Results.md)
 
@@ -49,6 +53,8 @@ Bridge는 encoder 출력을 GPT-2 입력 임베딩 공간의 벡터 3개로 변�
 초기에는 256차원 feature vector에서 여러 prefix를 만들었습니다. Prefix를 늘리면 training loss는 낮아졌지만, 실제 생성에서는 자극과 관계없는 문장과 반복 표현이 나타났습니다.
 
 이에 출력 prefix 수뿐 아니라 **encoder와 Bridge 사이의 중간 표현을 256에서 768차원으로 확대**했습니다. 당시 실험에서는 이 변경이 생성 결과 개선의 주요 전환점이었습니다. Prefix 수는 추가 증가에 따른 개선과 학습 시간을 고려해 최종 3개로 설정했습니다.
+
+![NSD caption decoding loss curve](https://raw.githubusercontent.com/minsungg/fMRI-Representation-Learning-and-Brain-to-Text-Decoding/main/Docs/Images/btt-loss.png)
 
 ## 4. 생성 결과와 ablation
 
