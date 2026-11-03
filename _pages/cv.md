@@ -35,9 +35,9 @@ Extended a 1D CNN encoder trained on HCP task classification to NSD image captio
 
 ## Awards
 
-- 2026 NDM — Grand Prize
-- 2025 Startup Competition — Second Prize
-- 2023 Datathon — Second Prize
+- Grand Prize, 2026 Nexon Dream Members (NDM) Game Development Showcase
+- 2nd Place, 2025 Korea University SW Technology–Venture Convergence Idea Startup Competition
+- Silver Prize, 2023 College of Informatics Datathon, Korea University
 
 ## Activities
 
