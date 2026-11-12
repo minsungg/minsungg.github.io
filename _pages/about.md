@@ -21,7 +21,7 @@ nav_order: 1
 
 **수학적 이해를 바탕으로 모델을 구현하고, 실험으로 검증하는 데이터사이언스 전공 유민성입니다.** AI/ML 모델 연구·개발 분야를 희망합니다.
 
-부동소수점 환경에서의 신경망 표현력을 연구하며, fMRI encoder와 GPT-2를 연결한 캡션 생성, 양자화 LLM을 활용한 리뷰 분석을 수행했습니다. 모델이 왜 작동하는지 이해하는 데서 출발해, 직접 구현하고 실험 결과와 한계를 분석합니다. 또한, ML의 수학적 이론과 현실에서 나타나는 문제에 큰 관심을 두고 있습니다.
+Floating-point Operation에서의 딥러닝의 이론을 연구하며, fMRI encoder와 GPT-2를 연결한 캡션 생성, 양자화 LLM을 활용한 리뷰 분석을 수행했습니다. 모델이 왜 작동하는지 이해하는 데서 출발해, 직접 구현하고 실험 결과와 한계를 분석합니다. 또한, ML의 수학적 이론과 현실에서 나타나는 문제에 큰 관심을 두고 있습니다.
 
 ---
 
@@ -56,7 +56,7 @@ nav_order: 1
   <div class="col mb-4">
     <div class="card h-100">
       <div class="card-body">
-        <h5 class="card-title">부동소수점 신경망의 표현력</h5>
+        <h5 class="card-title">Floating-point Operation 하에서의 Step Neural Network의 expressivity</h5>
         <a href="{{ '/projects/3_floating_point_nn/' | relative_url }}">View project →</a>
       </div>
     </div>
